@@ -27,7 +27,7 @@
                 category: "LED Board",
                 images: [
                     { 
-                        src: "image/LED-1.jpg", 
+                        src: "https:// vedank06.github.io/murlidhar_graphics.github.io//image/LED-1.jpg", 
                         alt: "LED board installation at a shopping mall displaying colorful advertisements",
                         desc: ""
                     },
