@@ -146,7 +146,7 @@
                         desc: "Intuitive dashboard design providing users with clear financial overviews."
                     },
                     { 
-                        src: "image/OFFSET-5.JPG", 
+                        src: "image/OFFSET-5.jpg", 
                         alt: "Transaction details screen with categorization and charts",
                         desc: "Detailed transaction analytics helping users better understand their spending."
                     },
