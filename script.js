@@ -319,13 +319,13 @@
         // Testimonials Section
         const testimonials = [
             {
-                quote: "Murlidhar graphics Impression is a new-age design thinking company having immense expertise in design and execution. We have been serving our client with  in advertising and commercial design & Printing for the last 20 years.",
+                quote: "it's was very amazing acrylic board made by murlidhar graphics.",
                 name: "Dr. Mittal",
                 role:"⭐️⭐️⭐️⭐️⭐",
                 img: "image/logo.jpeg"
             },
             {
-                quote: " We have helped various leading organizations from multiple domains including Entertainment, Finance, Real Estate, Food and Hospitality, FMCG, E-Commerce, Retail, Interior, Government agencies and Hospitals with impactful design solutions & printing solution",
+                quote: "Murlidhar Graphics has reasonable price and good quality and their service is also fast.",
                 name: "Parth Mistry",
                 role:"⭐️⭐️⭐️⭐️⭐",
                 img: "image/logo-2.jpeg"
@@ -337,13 +337,13 @@
                 img: "image/logo-3.jpeg"
             },
             {
-                quote: "Our LED display project was complex, but Black Team managed everything perfectly from concept to installation.",
+                quote: "Murlidhar Graphics has reasonable price and good quality and their service is also fast.",
                 name: "Sahil Panchal",
                 role:"⭐️⭐️⭐️⭐️⭐",
                 img: "image/logo-4.jpeg"
             },
             {
-                quote: "Working with Black Team was a game-changer for our brand. Their strategic consultation was worth every penny.",
+                quote: "Thank you for creating the best hotel menu! Muralidhar graphics.",
                 name: "Minish",
                 role: "⭐️⭐️⭐️⭐️⭐",
                 img: "image/logo-5.jpeg"

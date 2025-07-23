@@ -142,7 +142,7 @@ body {
             height: 100vh;
             display: flex;
             align-items: center;
-            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/daf5b06b-8359-420d-8862-2aa8274016a2.png') no-repeat center/cover;
+            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/main.jpeg') no-repeat center/cover;
             text-align: center;
         }
         
