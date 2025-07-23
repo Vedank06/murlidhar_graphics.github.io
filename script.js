@@ -27,27 +27,27 @@
                 category: "LED Board",
                 images: [
                     { 
-                        src: "/image/LED-1.jpg", 
+                        src: "image/LED-1.jpg", 
                         alt: "LED board installation at a shopping mall displaying colorful advertisements",
                         desc: ""
                     },
                     { 
-                        src: "/image/LED-2.jpg", 
+                        src: "image/LED-2.jpg", 
                         alt: "Close-up view of LED board components showing technical specifications",
                         desc: ""
                     },
                     { 
-                        src: "/image/LED-3.jpg", 
+                        src: "image/LED-3.jpg", 
                         alt: "Night time view of LED board illuminating the surrounding area",
                         desc: ""
                     },
                     { 
-                        src: "/image/LED-4.jpg", 
+                        src: "image/LED-4.jpg", 
                         alt: "Night time view of LED board illuminating the surrounding area",
                         desc:""
                     },
                     { 
-                        src: "/image/LED-5.jpg", 
+                        src: "image/LED-5.jpg", 
                         alt: "Night time view of LED board illuminating the surrounding area",
                         desc: ""
                     },
@@ -59,27 +59,27 @@
                 category: "ACP Work",
                 images: [
                     { 
-                        src: "/image/acp work-1.jpg", 
+                        src: "image/acp work-1.jpg", 
                         alt: "ACP façade installation at an educational institution's main building",
                         desc: "Completed ACP cladding for a prestigious school, featuring custom color selections to match their brand identity."
                     },
                     { 
-                        src: "/image/acp work-2.jpg", 
+                        src: "image/acp work-2.jpg", 
                         alt: "Detailed view of ACP panel joints and architectural elements",
                         desc: "Precision engineering of ACP panels ensuring perfect alignment and weather resistance."
                     },
                     { 
-                        src: "/image/acp work-3.jpg", 
+                        src: "image/acp work-3.jpg", 
                         alt: "Completed installation showing the full architectural impact",
                         desc: "The completed ACP transformation created a modern, durable exterior for the school."
                     },
                     {
-                     src: "/image/acp work-4.jpg", 
+                     src: "image/acp work-4.jpg", 
                         alt: "Completed installation showing the full architectural impact",
                         desc: "The completed ACP transformation created a modern, durable exterior for the school."
                     },
                 {
-                     src: "/image/acp work-5.jpg", 
+                     src: "image/acp work-5.jpg", 
                         alt: "Completed installation showing the full architectural impact",
                         desc: "The completed ACP transformation created a modern, durable exterior for the school."
                     },
@@ -93,27 +93,27 @@
                 category:"ALL TYPE OF PRINTING",
                 images: [
                     { 
-                        src: "/image/all tye-1.jpg", 
+                        src: "image/all tye-1.jpg", 
                         alt: "Homepage of an elegant e-commerce website with featured products",
                         desc: "Modern, responsive e-commerce platform designed for optimal user experience and conversions."
                     },
                     { 
-                        src: "/image/all tye-2.jpg", 
+                        src: "image/all tye-2.jpg", 
                         alt: "Product showcase page with detailed descriptions and pricing",
                         desc: "Product pages featuring high-quality imagery and comprehensive product information."
                     },
                     { 
-                        src: "/image/all tye-3.jpg", 
+                        src: "image/all tye-3.jpg", 
                         alt: "Mobile view of checkout process showing seamless experience",
                         desc: "Optimized mobile checkout flow ensuring high conversion rates across all devices."
                     },
                     {
-                     src: "/image/all tye-4.jpg", 
+                     src: "image/all tye-4.jpg", 
                         alt: "Completed installation showing the full architectural impact",
                         desc: "The completed ACP transformation created a modern, durable exterior for the school."
                     },
                     {
-                     src: "/image/all tye-5.jpg", 
+                     src: "image/all tye-5.jpg", 
                         alt: "Completed installation showing the full architectural impact",
                         desc: "The completed ACP transformation created a modern, durable exterior for the school."
                     },
@@ -126,27 +126,27 @@
                 category: "OFFSET PRINTING",
                 images: [
                     { 
-                        src: "/image/OFFSET-1.jpg", 
+                        src: "image/OFFSET-1.jpg", 
                         alt: "Mobile app dashboard showing account summary and quick actions",
                         desc: "Intuitive dashboard design providing users with clear financial overviews."
                     },
                     { 
-                        src: "/image/OFFSET-2.jpg", 
+                        src: "image/OFFSET-2.jpg", 
                         alt: "Transaction details screen with categorization and charts",
                         desc: "Detailed transaction analytics helping users better understand their spending."
                     },
                     { 
-                        src: "/image/OFFSET-3.jpg",
+                        src: "image/OFFSET-3.jpg",
                         alt: "Biometric login screen demonstrating secure authentication",
                         desc: "Advanced security features including facial recognition and fingerprint login."
                     },
                      { 
-                        src: "/image/OFFSET-4.jpg", 
+                        src: "image/OFFSET-4.jpg", 
                         alt: "Mobile app dashboard showing account summary and quick actions",
                         desc: "Intuitive dashboard design providing users with clear financial overviews."
                     },
                     { 
-                        src: "/image/OFFSET-5.JPG", 
+                        src: "image/OFFSET-5.JPG", 
                         alt: "Transaction details screen with categorization and charts",
                         desc: "Detailed transaction analytics helping users better understand their spending."
                     },
@@ -157,27 +157,27 @@
                 category: "ACYRLIC LOGO",
                 images: [
                     { 
-                        src: "/image/ACYRLIC-1.jpg", 
+                        src: "image/ACYRLIC-1.jpg", 
                         alt: "Logo design variations showing color and typography options",
                         desc: "Comprehensive brand identity system with versatile logo applications."
                     },
                     { 
-                        src: "/image/ACYRLIC-2.jpg", 
+                        src: "image/ACYRLIC-2.jpg", 
                         alt: "Brand collateral including business cards and stationary",
                         desc: "Printed materials maintaining perfect brand consistency across touchpoints."
                     },
                     { 
-                        src: "/image/ACYRLIC-3.jpg", 
+                        src: "image/ACYRLIC-3.jpg", 
                         alt: "Digital applications of brand identity across various platforms",
                         desc: "Digital brand implementation ensuring recognition across all online platforms."
                     },
                      { 
-                        src: "/image/ACYRLIC-4.jpg", 
+                        src: "image/ACYRLIC-4.jpg", 
                         alt: "Mobile app dashboard showing account summary and quick actions",
                         desc: "Intuitive dashboard design providing users with clear financial overviews."
                     },
                     { 
-                        src: "/image/ACYRLIC-5.jpg", 
+                        src: "image/ACYRLIC-5.jpg", 
                         alt: "Transaction details screen with categorization and charts",
                         desc: "Detailed transaction analytics helping users better understand their spending."
                     },
@@ -188,27 +188,27 @@
                 category: "NEON SIGN BOARD",
                 images: [
                     { 
-                        src: "/image/neon-1.jpg", 
+                        src: "image/neon-1.jpg", 
                         alt: "Social media campaign visuals showing different ad creatives",
                         desc: "Multi-platform social media campaign driving engagement and conversions."
                     },
                     { 
-                        src: "/image/neon-2.jpg", 
+                        src: "image/neon-2.jpg", 
                         alt: "Analytics dashboard showing campaign performance metrics",
                         desc: "Data-driven campaign optimization based on real-time performance analytics."
                     },
                     { 
-                        src: "/image/neon-3.jpg", 
+                        src: "image/neon-3.jpg", 
                         alt: "Email marketing templates with responsive design",
                         desc: "Custom email marketing templates designed for high open and click-through rates."
                     },
                      { 
-                        src: "/image/neon-4.jpg", 
+                        src: "image/neon-4.jpg", 
                         alt: "Mobile app dashboard showing account summary and quick actions",
                         desc: "Intuitive dashboard design providing users with clear financial overviews."
                     },
                     { 
-                        src: "/image/neon-5.jpg", 
+                        src: "image/neon-5.jpg", 
                         alt: "Transaction details screen with categorization and charts",
                         desc: "Detailed transaction analytics helping users better understand their spending."
                     },
@@ -322,31 +322,31 @@
                 quote: "Murlidhar graphics Impression is a new-age design thinking company having immense expertise in design and execution. We have been serving our client with  in advertising and commercial design & Printing for the last 20 years.",
                 name: "Dr. Mittal",
                 role:"⭐️⭐️⭐️⭐️⭐",
-                img: "/image/logo.jpeg"
+                img: "image/logo.jpeg"
             },
             {
                 quote: " We have helped various leading organizations from multiple domains including Entertainment, Finance, Real Estate, Food and Hospitality, FMCG, E-Commerce, Retail, Interior, Government agencies and Hospitals with impactful design solutions & printing solution",
                 name: "Parth Mistry",
                 role:"⭐️⭐️⭐️⭐️⭐",
-                img: "/image/logo-2.jpeg"
+                img: "image/logo-2.jpeg"
             },
             {
                 quote: "Outstanding work on our ACP installation. They delivered on time, within budget, and the quality is exceptional.",
                 name: "Akshay Kollur",
                 role:"⭐️⭐️⭐️⭐️⭐",
-                img: "/image/logo-3.jpeg"
+                img: "image/logo-3.jpeg"
             },
             {
                 quote: "Our LED display project was complex, but Black Team managed everything perfectly from concept to installation.",
                 name: "Sahil Panchal",
                 role:"⭐️⭐️⭐️⭐️⭐",
-                img: "/image/logo-4.jpeg"
+                img: "image/logo-4.jpeg"
             },
             {
                 quote: "Working with Black Team was a game-changer for our brand. Their strategic consultation was worth every penny.",
                 name: "Minish",
                 role: "⭐️⭐️⭐️⭐️⭐",
-                img: "/image/logo-5.jpeg"
+                img: "image/logo-5.jpeg"
             }
         ];
         
